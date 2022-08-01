@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jogo</string>
+    <string name="escolha_do_app">Escolha do APP</string>
+    <string name="escolha_uma_opcao">Escolha uma opção abaixo</string>
+</resources>
